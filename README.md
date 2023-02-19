@@ -1,3 +1,17 @@
+# Diseño y Programación de Software Multiplataforma DPS441 G01T
+### Investigación 1: Infografia y ejemplo de Flutter.
+
+# Integrantes 👤
+
+- Alvarenga Vásquez, Carlos Benjamín - #AV221218
+- Siliézar Colocho, Carlos Eduardo - #SC202203
+- Grupo: 01T
+
+# Link 🔗
+
+> PDF: https://drive.google.com/file/d/1OI3wUYliaJ8MYIwiTnefwhSk50scUHV9/view?usp=sharing
+
+
 # flutter_example_dps
 
 A new Flutter project.
